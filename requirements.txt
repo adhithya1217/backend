@@ -1,9 +1,3 @@
-ultralytics
-opencv-python
-streamlit
-pyttsx3
-numpy
 flask
-flask_cors
-numpy
+flask-cors
 gunicorn
